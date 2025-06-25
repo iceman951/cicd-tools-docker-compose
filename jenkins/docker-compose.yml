@@ -1,6 +1,6 @@
 services:
   jenkins:
-    image: jenkins/jenkins:2.508-jdk21
+    image: jenkins/jenkins:2.516-jdk21
     privileged: true
     user: root
     ports:
